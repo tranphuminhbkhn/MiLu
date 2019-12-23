@@ -1,0 +1,5 @@
+# include "src/tensor.cpp"
+# include "src/tensor_operator.cpp"
+# include "src/layer.cpp"
+# include "src/loss.cpp"
+# include "src/functional.cpp"
